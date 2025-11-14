@@ -1,0 +1,8 @@
+Knowledge Graph Basics
+
+A knowledge graph is a structured representation of entities and their relationships.
+
+Key Concepts:
+- Nodes represent entities such as people, projects, or technologies.
+- Edges represent relationships like works_on, manages, or belongs_to.
+- Useful in reasoning, search, and query routing.
